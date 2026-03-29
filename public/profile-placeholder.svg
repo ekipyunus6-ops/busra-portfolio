@@ -1,0 +1,12 @@
+<svg width="680" height="840" viewBox="0 0 680 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="840" fill="#FBF8F4"/>
+  <rect x="42" y="42" width="596" height="756" rx="34" fill="#F5F0E9" stroke="#D9D0C5"/>
+  <path d="M339.5 222C286.204 222 246 262.204 246 315.5C246 350.467 263.739 381.328 290.744 398.017C237.455 418.613 202 469.941 202 528.5V559C202 573.912 214.088 586 229 586H450C464.912 586 477 573.912 477 559V528.5C477 469.941 441.545 418.613 388.256 398.017C415.261 381.328 433 350.467 433 315.5C433 262.204 392.796 222 339.5 222Z" fill="#E6DED4"/>
+  <path d="M339.5 254C374.57 254 401 280.43 401 315.5C401 351.408 373.014 378.5 339.5 378.5C305.986 378.5 278 351.408 278 315.5C278 280.43 304.43 254 339.5 254Z" fill="#D3C6B7"/>
+  <path d="M252 534.5C252 487.833 289.833 450 336.5 450H342.5C389.167 450 427 487.833 427 534.5V554H252V534.5Z" fill="#D3C6B7"/>
+  <line x1="96" y1="106.5" x2="584" y2="106.5" stroke="#D9D0C5"/>
+  <line x1="96" y1="670.5" x2="584" y2="670.5" stroke="#D9D0C5"/>
+  <path d="M127 707H554" stroke="#D9D0C5"/>
+  <text x="100" y="724" fill="#6E665F" font-family="Arial, sans-serif" font-size="22" letter-spacing="0.22em">PORTRAIT PLACEHOLDER</text>
+  <text x="98" y="758" fill="#1A1816" font-family="Georgia, serif" font-size="42">Büşra Coşgun</text>
+</svg>
